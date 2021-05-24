@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Christos, and I'm a Mid-Level Backend Engineer, working mainly with **Node.js** and **Typescript**. 
 
