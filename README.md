@@ -6,6 +6,6 @@ My name is Christos, and I'm a Mid-Level Backend Engineer, working mainly with *
 - 🌱 I’m currently learning Elixir and I'm generally trying to start working a bit more with functional languages.
 - 📫 You can reach me by sending a message to **chrispanag@gmail.com** or you can find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play the guitar and I love greek rembetiko music so much that I administer a greek rembetiko music community on the web, [rembetiko.gr](https://rembetiko.gr)!
 - ❤️ I love open source software and the open source philosophy.
+- ⚡ Fun fact: I play the guitar and I love greek rembetiko music so much that I administer a greek rembetiko music community on the web, [rembetiko.gr](https://rembetiko.gr)!
 
