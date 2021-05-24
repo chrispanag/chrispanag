@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Christos, and I'm a Mid-Level Backend Engineer, working mainly with Node.js and Typescript.
+
 <!--
 **chrispanag/chrispanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
