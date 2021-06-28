@@ -2,6 +2,8 @@
 
 My name is Christos, and I'm a Mid-Level Backend Engineer, working mainly with **Node.js** and **Typescript**. 
 
+You can visit my IPFS-enabled website through [chrispanag.eth.link](https://chrispanag.eth.link) or if you are feeling *Brave* through [chrispanag.eth](chrispanag.eth).
+
 - 🔭 I’m currently working on my [custom chatbot framework, Ebony](https://github.com/chrispanag/ebony).
 - 🌱 I’m currently learning Elixir and I'm generally trying to start working a bit more with functional languages.
 - 📫 You can reach me by sending a message to **chrispanag@gmail.com**, find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/) or reach me on <a rel="me" href="https://fosstodon.org/@chrispanag">Mastodon</a>.
