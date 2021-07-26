@@ -6,7 +6,7 @@ You can visit my IPFS-enabled website through [chrispanag.eth.link](https://chri
 
 - 💊  I'm currently building decentralised discourse at [**Capsule Social**](https://capsule.social).
 - 🔭  Check out my [custom chatbot framework, Ebony](https://github.com/chrispanag/ebony).
-- 📫  You can reach me by sending a message to **chrispanag@gmail.com**, find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/) or reach me on <a rel="me" href="https://fosstodon.org/@chrispanag">Mastodon</a>.
+- 📫  You can reach me by sending a message to **chrispanag@gmail.com**, find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/) or DM me on <a rel="me" href="https://fosstodon.org/@chrispanag">Mastodon</a> or <a rel="me" href="https://twitter.com/chrispanag">Twitter</a>.
 - 😄  Pronouns: he/him/his
 - ❤️  I love open source software and the open source philosophy.
 - ⚡  Fun fact: I play the guitar (as you can see from my picture) and I love greek rembetiko music so much that I administer a greek rembetiko music community on the web, [rembetiko.gr](https://rembetiko.gr)!
