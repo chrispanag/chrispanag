@@ -8,7 +8,6 @@ You can visit my IPFS-enabled website through [chrispanag.eth.link](https://chri
 - 🔭  Check out my [custom chatbot framework, Ebony](https://github.com/chrispanag/ebony).
 - 📫  You can reach me by sending a message to **chrispanag@gmail.com**, find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/) or DM me on <a rel="me" href="https://fosstodon.org/@chrispanag">Mastodon</a> or <a rel="me" href="https://twitter.com/chrispanag">Twitter</a>.
 - 😄  Pronouns: he/him/his
-- ❤️  I love open source software and the open source philosophy.
 - ⚡  Fun fact: I play the guitar and I love greek rembetiko music so much that I administer a greek rembetiko music community on the web, [rembetiko.gr](https://rembetiko.gr)!
 
 <a href="https://stackoverflow.com/users/6141173/christos-panagiotakopoulos"><img src="https://stackoverflow.com/users/flair/6141173.png?theme=clean" width="208" height="58" alt="profile for Christos Panagiotakopoulos at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Christos Panagiotakopoulos at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
