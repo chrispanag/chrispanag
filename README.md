@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Christos, and I'm a Mid-Level Backend Engineer, working mainly with **Node.js** and **Typescript**. 
+My name is Christos, and I'm a Backend Engineer, working mainly with **Node.js** and **Typescript**. 
 
 You can visit my IPFS-enabled website through [chrispanag.eth.link](https://chrispanag.eth.link) or if you are feeling *Brave* through [chrispanag.eth](https://chrispanag.eth).
 
