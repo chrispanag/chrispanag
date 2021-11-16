@@ -5,7 +5,6 @@ My name is Christos, and I'm a Backend Engineer, working mainly with **Node.js**
 You can visit my IPFS-enabled website through [chrispanag.eth.link](https://chrispanag.eth.link) or if you are feeling *Brave* through [chrispanag.eth](https://chrispanag.eth).
 
 - 🚀  I'm currently building decentralised discourse at [**Capsule Social**](https://capsule.social).
-- 🔭  Check out my [custom chatbot framework, Ebony](https://github.com/chrispanag/ebony).
 - 📫  You can reach me by sending a message to **mail@chrispanag.com**, find me on [LinkedIn](https://www.linkedin.com/in/chrispanag/) or DM me on <a rel="me" href="https://twitter.com/chrispanag">Twitter</a>.
 - 😄  Pronouns: he/him/his
 - ⚡  Fun fact: I play the guitar and I love greek rembetiko music so much that I administer a greek rembetiko music community on the web, [rembetiko.gr](https://rembetiko.gr)!
